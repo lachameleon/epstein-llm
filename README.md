@@ -1,7 +1,7 @@
 # Epstein LLM
 > A thought about how messed up an LLM trained off the Epstein files can be
 
-**Chat with Epstein for *free* on the [discord](https://discord.gg/qsTmkE7V5F)**
+**Chat with Epstein for *free* on the [discord](https://discord.gg/sjH2y63twU)**
 
 So far we have just started with emails in the November release.
 
